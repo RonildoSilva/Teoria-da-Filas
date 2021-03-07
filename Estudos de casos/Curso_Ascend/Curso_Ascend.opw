@@ -1,0 +1,18 @@
+[RESOURCES]
+[VARIABLES]
+Aprovado no curso de IA.NumberOut False
+Aprovado no curso de IA.NumberOut True
+Execução das Aulas.NumberIn
+Não habilitado.NumberOut
+Reprovado.NumberOut
+Geração dos certificados.NumberOut
+Geração dos certificados.NumberIn
+Passou nas práticas.NumberOut True
+Aprovado ?.NumberOut False
+Passou nas práticas.NumberOut False
+Execução das Aulas.NumberOut
+Início do curso.NumberOut
+Aprovado.NumberOut
+Aprovado ?.NumberOut True
+Aprovado no início?.NumberOut False
+Aprovado no início?.NumberOut True

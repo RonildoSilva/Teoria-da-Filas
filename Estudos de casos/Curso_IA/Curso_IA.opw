@@ -1,0 +1,17 @@
+[RESOURCES]
+[VARIABLES]
+Execução das Aulas.NumberIn
+Estender o prazo.NumberOut
+Reprovado.NumberOut
+Estender o prazo.NumberIn
+Geração dos certificados.NumberOut
+Geração dos certificados.NumberIn
+Aprovado ?.NumberOut False
+Utilizou o tempo ?.NumberOut True
+Utilizou o tempo ?.NumberOut False
+Execução das Aulas.NumberOut
+Início do curso.NumberOut
+Aprovado.NumberOut
+Aprovado ?.NumberOut True
+Aprovado no início?.NumberOut False
+Aprovado no início?.NumberOut True

@@ -1,0 +1,19 @@
+[RESOURCES]
+[VARIABLES]
+Multipla escolha.NumberOut True
+Multipla escolha.NumberOut False
+Escolha VF.NumberOut False
+Dispose.NumberOut
+Process 1.NumberIn
+Escolha de uma questão.NumberOut
+Resultado.NumberOut
+VF.NumberOut False
+Escolha ME.NumberOut True
+Escolha UE.NumberOut True
+VF.NumberOut True
+Unica escolha.NumberOut True
+Escolha VF.NumberOut True
+Unica escolha.NumberOut False
+Process 1.NumberOut
+Escolha ME.NumberOut False
+Escolha UE.NumberOut False

@@ -1,0 +1,18 @@
+[RESOURCES]
+[VARIABLES]
+Remarcado.NumberOut
+Pode receber outra oportunidade?.NumberOut False
+Aplicação da Prova.NumberIn
+Pode receber outra oportunidade?.NumberOut True
+Reprovado.NumberOut
+Enviar comprovante falha.NumberIn
+Enviar comprovante falha.NumberOut
+Enviar comprovante.NumberOut
+Aprovado ?.NumberOut False
+Enviar comprovante.NumberIn
+Aplicação da Prova.NumberOut
+Imprevisto.NumberOut True
+Início da aplicação.NumberOut
+Aprovado.NumberOut
+Aprovado ?.NumberOut True
+Imprevisto.NumberOut False
